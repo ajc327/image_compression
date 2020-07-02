@@ -1,0 +1,8 @@
+\textbf{Level	1	2	3	4	5	6
+}\\
+\textbf{Optimal step size	"[10} & 14;10 & Inf;10 & Inf]"	"[11 & 7 & 8;11 & 7 & Inf;11 & 9 & Inf]"	3x4 double	3x5 double	3x6 double	3x7 double
+\\
+\textbf{rms error	4.74	4.81	4.85	4.89	4.90	4.86
+}\\
+\textbf{Compression ratio 	2.11	2.83	3.03	3.08	3.09	3.08
+}\\
